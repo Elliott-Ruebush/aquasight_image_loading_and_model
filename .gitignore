@@ -1,0 +1,9 @@
+# Ignore files these files that are too large
+
+.model
+basic_binary_CNN.model
+model_2.0_includes_new_data.model
+aquasight_binary_CNN.h5
+converted_CNN.tflite
+X_features.pickle
+y_labels.pickle
