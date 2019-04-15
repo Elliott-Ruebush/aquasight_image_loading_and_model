@@ -1,6 +1,12 @@
-# Ignore files these files that are too large
+# Ignore files that are too large to push to GitHub
 
 .model
+.pickle
+.png
+.tflite
+.jpeg
+.h5
+model.png
 basic_binary_CNN.model
 model_2.0_includes_new_data.model
 aquasight_binary_CNN.h5
